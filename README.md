@@ -2,7 +2,7 @@
 안구건조증 예방 딥러닝 프로젝트
 =============
 
-* 프로젝트 설명
+### * 프로젝트 설명
 -------------
 
     딥러닝으로 눈 깜빡임을 인지하여, 컴퓨터 화면을 보는 사용자가 눈을 많이 깜빡이도록 도와줍니다.
@@ -10,7 +10,8 @@
     경고창을 닫으면 깜빡임 횟수가 자동으로 초기화되며 처음부터 다시 시작됩니다.
     1분에 20회 이상 깜빡이면 자동으로 초기화되며 처음부터 다시 시작됩니다.
 
-* 딥러닝 환경 설정
+
+### * 딥러닝 환경 설정
 -------------
   #### 1) Install Anaconda
   
@@ -33,22 +34,27 @@
   ```
 
 
-* Dataset 취득
+
+### * Dataset 취득
 -------------
    왼쪽 눈 뜬 사진(jpg) 300개, 왼쪽 눈 감은 사진(jpg) 300개 총 600개의 dataset 사용
    
    ![image](https://user-images.githubusercontent.com/77608922/158016847-2656b80f-f3ea-48b0-b992-4d941b9979fe.png)
 
-   
-* 전체 코드 흐름
+ 
+ 
+ 
+### * 전체 코드 흐름
 -------------
 ![image](https://user-images.githubusercontent.com/77608922/158016821-4f6b1eac-0ee6-435b-8266-5617aeac21b5.png)
 
-* preprocess.py
+
+### * preprocess.py
 -------------
     The number of train dataset : The number of test dataset = 480 : 120 = 8 : 2
-    
-* train.py
+
+
+### * train.py
 -------------
    #### 1) Data Augmentation
     
@@ -62,7 +68,8 @@
 ![image](https://user-images.githubusercontent.com/77608922/158017143-2f18cb0a-6d5c-4c93-9fcb-7f2d960fe5f4.png)
 
 
-* test.py
+
+### * test.py
 -------------
 
 ![image](https://user-images.githubusercontent.com/77608922/158017506-7378bbd3-16c0-4e75-8913-53c1c75c0dad.png)
