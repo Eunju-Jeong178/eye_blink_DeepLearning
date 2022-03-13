@@ -59,18 +59,19 @@
    #### 1) Data Augmentation
     
    #### 2) Build Model
-    
-![image](https://user-images.githubusercontent.com/77608922/158017061-93995a66-bf7a-4ad7-936c-53b65a755418.png)
+  
+<img src="https://user-images.githubusercontent.com/77608922/158017061-93995a66-bf7a-4ad7-936c-53b65a755418.png" width="50%" height="50%">
    
    #### 3) Train
    
-![image](https://user-images.githubusercontent.com/77608922/158017100-7d3b4ce6-adc4-4f6d-8021-4d37abac8a04.png)
-![image](https://user-images.githubusercontent.com/77608922/158017143-2f18cb0a-6d5c-4c93-9fcb-7f2d960fe5f4.png)
+<img src="https://user-images.githubusercontent.com/77608922/158017100-7d3b4ce6-adc4-4f6d-8021-4d37abac8a04.png" width="80%" height=80%>
+<img src="https://user-images.githubusercontent.com/77608922/158017143-2f18cb0a-6d5c-4c93-9fcb-7f2d960fe5f4.png" width="80%" height="80%">
 
 
 
 ### * test.py
 -------------
 
-![image](https://user-images.githubusercontent.com/77608922/158017506-7378bbd3-16c0-4e75-8913-53c1c75c0dad.png)
+<img src="https://user-images.githubusercontent.com/77608922/158047811-5cca0532-9a8c-4a0e-b2c9-a6954ebaa6aa.png" width="40%" height="40%">
+
 실행화면 캡쳐 이미지
